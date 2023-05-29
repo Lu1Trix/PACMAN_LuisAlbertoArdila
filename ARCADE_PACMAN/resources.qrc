@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Sprites">
+        <file>Maze.png</file>
+        <file>pngwing.com.png</file>
+    </qresource>
+</RCC>
